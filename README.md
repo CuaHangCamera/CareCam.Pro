@@ -4,7 +4,7 @@ Giám sát video từ xa: Luôn ở gần gia đình bạn.
 Phát hiện chuyển động: Bảo vệ gia đình bạn 24/7.
 Phát lại video HD: Đừng để bạn bỏ lỡ bất kỳ sự kiện nào.
 # Website hỗ trợ: www.CaReCam.Pro
-# Video hướng dẫn - Hỗ Trợ - Sản Phẩm: https://video.PhátTriển.vn/search?q=CareCam
+Video hướng dẫn - Hỗ Trợ - Sản Phẩm: https://video.PhátTriển.vn/search?q=CareCam
 
 # Các tính năng chính:
 Truyền phát trực tiếp HD
@@ -53,11 +53,3 @@ Chuyên phân phối camera quan sát
 Điện thoại: 0931435998
 Email: NhaPhanPhoiCamera@gmail.com
 Website: https://NhaPhanPhoiCamera.net - https://CameraVietNam.org
-
-
-# WINTECH VIỆT NAM 
-Địa chỉ: Đường Mỹ Phước - Tân Vạn, KP.1, P. Phú Mỹ, TP.TDM
-Tp.HCM: 104/1 QL 13 cũ, P.Hiệp Bình Phước, Q.Thủ Đức
-Hotline: 0931 435 998
-Email: info@wintech.vip 
-Website: www.WinTech.VIP
