@@ -40,10 +40,10 @@ Truyền phát trực tiếp HD
 # Camera quan sát CCTV
  Camera IP WiFi, Camera IP, Camera CVI, Camera AHD, Camera Analog, Đầu ghi Camera, Bộ camera quan sát, Phụ kiện camera,...
 
-# CAMERA THỦ ĐỨC
+# CAMERA HCM
 Chuyên phân phối camera quan sát: Camera IP WiFi, Camera IP, Đầu ghi Camera, Phụ kiện camera,...
 
-Hotline: 0774 532 516 Email: Camera@ThủĐức.vn Website: http://Camera.ThủĐức.vn
+Hotline: 0774 532 516
 
 # CỬA HÀNG CAMERA 
 Điện thoại: 0931 435 998
