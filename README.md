@@ -46,8 +46,7 @@ Chuyên phân phối camera quan sát: Camera IP WiFi, Camera IP, Đầu ghi Cam
 Hotline: 0774 532 516 Email: Camera@ThủĐức.vn Website: http://Camera.ThủĐức.vn
 
 # CỬA HÀNG CAMERA 
-Địa chỉ: 104/1 QL 13 cũ, P.Hiệp Bình Phước, Thủ Đức, HCM
-Điện thoại: 0931 435 998 Zalo: WinTech
+Điện thoại: 0931 435 998
 Email: kinhdoanh@cuahangcamera.com
 Website: https://cuahangcamera.com | www.cuahangcamera.com | www.CửaHàngCamera.vn
 
@@ -56,4 +55,3 @@ Website: https://cuahangcamera.com | www.cuahangcamera.com | www.CửaHàngCamer
 Chuyên phân phối camera quan sát
 Điện thoại: 0931435998
 Email: NhaPhanPhoiCamera@gmail.com
-Website: https://NhaPhanPhoiCamera.net - https://CameraVietNam.org
